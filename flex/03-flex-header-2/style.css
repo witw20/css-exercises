@@ -11,7 +11,7 @@ body {
 .header {
   display: flex;
   align-items: center;
-  gap: 8px;
+  gap: 16px;
   padding: 8px;
   justify-content: space-between;
   background: white;
@@ -55,13 +55,13 @@ ul {
 .right-group {
   display: flex;
   justify-content: flex-end;
-  gap: 8px;
+  gap: 16px;
 }
 
 .left-group {
   display: flex;
   justify-content: space-between;
-  gap: 8px;
+  gap: 16px;
   align-items: center;
 }
 
